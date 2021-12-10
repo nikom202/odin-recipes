@@ -1,20 +1,17 @@
-/* Home styles */
+/* Base styles */
 
 .header {
     background-color: green;
     font-family: sans-serif;
     color: white;
     font-weight: 800;
+    text-align:center;
 }
-
-.recipes {
-   font-family: Verdana, sans-serif; 
-   font-size: 28px;
-   font-weight: bold;   
-}
-
-/* Lasagna styles */
 
 .header.child {
     background-color: rgb(237, 167, 64)
+}
+
+.align {
+    text-align: center;
 }
