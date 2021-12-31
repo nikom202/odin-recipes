@@ -1,9 +1,9 @@
 /* Base styles */
 
 .header {
-    background-color: green;
+    background-color: #2b2a33;
     font-family: sans-serif;
-    color: white;
+    color: #fbfb;
     font-weight: 800;
     text-align:center;
 }
